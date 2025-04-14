@@ -1,1 +1,52 @@
+Practical 1: Android Studio/(Vs code) setup for Flutter development with along with Dart SDK.
+Step 1: First install Vscode Editor (If not installed). Search Vscode on google and click on first link . than click Download for windows.
+ 
+After downloading install it on system.
+
+Step 2: Google Flutter SDK Install then select your os system and than what type of app you 
+want to make.(here Windows > android).
+Step 3 : download latest flutter sdk version.
+ 
+
+
+Step 4: After Downloading the Zip folder extract it in C drive.
+
+
+Step 5: copy bin folder location 
+ 
+
+
+Step 6: now set it to environment Variables
+•	In use variables for admin click path than click on edit button and add path than click ok
+ 
+
+Step 7: Now open Vs Code and install flutter extension and dart extension.
+ 
+
+ 
+
+
+Step 8: Use F1 to make project and select Application.
+ 
+ 
+
+
+Step 9: Select Folder Where you want to keep your project and than give project name.
+ 
+ 
+
+
+
+
+
+
+
+Step 10 : Main.dart
+ 
+
+Step 11: Run Application
+•	Click on triangle like button than click start debugging, and select device or browser where you want to run application (i.e. chrome) .
+ 
+Step 12: Output
+ 
 
