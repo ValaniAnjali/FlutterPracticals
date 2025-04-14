@@ -1,0 +1,23 @@
+import 'package:flutter/material.dart';
+
+void main() {
+  runApp(MaterialApp(
+    title: 'Demo_MaterialUi',
+    home: Container(
+      child: FlutterLogo(),
+    ),
+  ));
+}
+
+// class HomePage extends StatelessWidget {
+//   @override
+//   Widget build(BuildContext context) {
+//     return Container(
+//       color: Colors.cyanAccent,
+//       child: Text(
+//         'Hello Flutter',
+//         // style: TextStyle(color: Colors.yellow),
+//       ),
+//     );
+//   }
+// }
